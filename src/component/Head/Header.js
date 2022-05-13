@@ -30,6 +30,9 @@ const Header = () => {
               <li>
                 <a href='#portfolio'>portofolio</a>
               </li>
+              <li>
+                <a href='#contact'>Komentar</a>
+              </li>
             </ul>
 
             <button className='toggle' onClick={() => setMobile(!Mobile)}>
