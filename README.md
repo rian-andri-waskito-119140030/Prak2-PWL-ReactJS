@@ -20,4 +20,6 @@ yarn start </br>
         "yarn": "^1.22.18" </br>
       }</br>
 Tampilan Web
-![Screenshot (317)](https://user-images.githubusercontent.com/82927821/162118228-adf4e645-f428-42f1-bc87-89eeeb928f51.png)
+![image](https://user-images.githubusercontent.com/82927821/168268992-551862aa-af3f-47f2-9d5a-078a5074f99b.png)
+![image](https://user-images.githubusercontent.com/82927821/168269027-69c57fce-905b-498f-ad01-b5f96ce698ca.png)
+
